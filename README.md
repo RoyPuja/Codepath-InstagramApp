@@ -14,6 +14,6 @@ Completed user stories:
            Allow user to view all comments for an image within a separate activity or dialog fragment.
 
 Walkthrough of completed user stories:
-
+<img src="https://cloud.githubusercontent.com/assets/11285573/9985431/d8d2763e-5fe0-11e5-8188-71461df221a7.gif">
 
 
