@@ -13,6 +13,7 @@ Completed user stories:
            Display a nice default placeholder graphic for each image during loading.
            Allow user to view all comments for an image within a separate activity or dialog fragment.
 
-[View Demo!](https://cloud.githubusercontent.com/assets/11285573/9985431/d8d2763e-5fe0-11e5-8188-71461df221a7.gif)
+
+<img src="https://cloud.githubusercontent.com/assets/11285573/9985431/d8d2763e-5fe0-11e5-8188-71461df221a7.gif">
 
 
