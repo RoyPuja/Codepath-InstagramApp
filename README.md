@@ -1,20 +1,7 @@
-# Codepath-InstagramApp
-This is a read-only photo viewer for Instagram which allows a user to check out popular photos.
-Time spent: 12 hours spent in total
 
-Completed user stories:
+# Project 1 - *Instagram Photo Viewer*
 
- Required: User can scroll through current popular photos from Instagram.
- Required: For each photo displayed, user can see the following details:
-            Graphic, Caption, Username
-            (Optional) relative timestamp, like count, user profile image
- Optional: Add pull-to-refresh for popular stream with SwipeRefreshLayout.
-           Display each user profile image using a RoundedImageView.
-           Display a nice default placeholder graphic for each image during loading.
-           Allow user to view all comments for an image within a separate activity or dialog fragment.
-# Project 1 - *Name of App Here*
-
-**Name of your app** is an android app that allows a user to check out popular photos from Instagram. The app utilizes Instagram API to display images and basic image information to the user.
+**Instagram Photo Viewer** is an android app that allows a user to check out popular photos from Instagram. The app utilizes Instagram API to display images and basic image information to the user.
 
 Time spent: **12** hours spent in total
 
@@ -22,26 +9,23 @@ Time spent: **12** hours spent in total
 
 The following **required** functionality is completed:
 
-* [0] User can **scroll through current popular photos** from Instagram
-* [0] For each photo displayed, user can see the following details:
-  * [0] Graphic, Caption, Username
-  * [0] Relative timestamp, like count, user profile image
+* User can **scroll through current popular photos** from Instagram
+*  For each photo displayed, user can see the following details:
+  *  Graphic, Caption, Username
+  *  Relative timestamp, like count, user profile image
 
 The following **optional** features are implemented:
 
-* [0] User can **pull-to-refresh** popular stream to get the latest popular photos
-* [ ] Show latest comments for each photo
-* [0] Display each photo with the same style and proportions as the real Instagram
-* [0] Display each user profile image using a RoundedImageViewDisplay each user profile image using a [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
-* [0] Display a nice default placeholder graphic for each image during loading
-* [ ] Improved the user interface through styling and coloring
+*  User can **pull-to-refresh** popular stream to get the latest popular photos
+*  Display each photo with the same style and proportions as the real Instagram
+*  Display each user profile image using a RoundedImageViewDisplay each user profile image using a [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
+*  Display a nice default placeholder graphic for each image during loading
+*  Improved the user interface through styling and coloring
 
 The following **bonus** features are implemented:
 
-* [ ] Show last 2 comments for each photo
-* [ ] Allow user to view all comments for an image within a separate activity or dialog fragment
-* [ ] Allow video posts to be played in full-screen using the VideoView
-
+* Show last 2 comments for each photo
+* Allow user to view all comments for an image within a separate activity or dialog fragment
 
 ## Video Walkthrough 
 
